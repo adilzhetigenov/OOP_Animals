@@ -1,0 +1,36 @@
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.csproj.AssemblyReference.cache
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfo.cs
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\bin\Debug\net8.0\animals.txt
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\bin\Debug\net8.0\OOP2.exe
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\bin\Debug\net8.0\OOP2.deps.json
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\bin\Debug\net8.0\OOP2.runtimeconfig.json
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\bin\Debug\net8.0\OOP2.dll
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\bin\Debug\net8.0\OOP2.pdb
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\bin\Debug\net8.0\TextFile.dll
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.csproj.Up2Date
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.dll
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\refint\OOP2.dll
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.pdb
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\OOP2.genruntimeconfig.cache
+C:\Users\amanb\OneDrive\Рабочий стол\1st semester BSc\c# programming\OOP2\obj\Debug\net8.0\ref\OOP2.dll
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\bin\Debug\net8.0\animals.txt
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\bin\Debug\net8.0\OOP2.exe
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\bin\Debug\net8.0\OOP2.deps.json
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\bin\Debug\net8.0\OOP2.runtimeconfig.json
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\bin\Debug\net8.0\OOP2.dll
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\bin\Debug\net8.0\OOP2.pdb
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\bin\Debug\net8.0\TextFile.dll
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.csproj.AssemblyReference.cache
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfo.cs
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.csproj.Up2Date
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.dll
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\refint\OOP2.dll
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.pdb
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\OOP2.genruntimeconfig.cache
+C:\Users\amanb\OneDrive\Рабочий стол\OOP'\OOP2\obj\Debug\net8.0\ref\OOP2.dll
